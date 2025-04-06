@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-🔭 Visit [My Own Website (https://freetimemaker.github.io/)]
+🔭 Visit [![My own Website]](https://FreetimeMaker.github.io/)

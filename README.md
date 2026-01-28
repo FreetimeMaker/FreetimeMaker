@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-🔭 Visit <a href="https://freetimemaker.github.io/" target="_blank">My own Website</a>
+🔭 Visit [my own Website](https://freetimemaker.github.io/).

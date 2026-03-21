@@ -138,8 +138,6 @@ Alternatively, you can also display the addresses directly:
 <img src="https://github.com/FreetimeMaker/SuperSMP-Companion-App/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" alt="1. Picture"  width="30%">
 <img src="https://github.com/FreetimeMaker/SuperSMP-Companion-App/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" alt="2. Picture"  width="30%">
 <img src="https://github.com/FreetimeMaker/SuperSMP-Companion-App/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" alt="3. Picture"  width="30%">
-<img src="https://github.com/FreetimeMaker/SuperSMP-Companion-App/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" alt="4. Picture"  width="30%">
-<img src="https://github.com/FreetimeMaker/SuperSMP-Companion-App/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" alt="5. Picture"  width="30%">
 </div>
 
 <div align="center">

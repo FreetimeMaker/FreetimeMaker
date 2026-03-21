@@ -130,10 +130,10 @@ Alternatively, you can also display the addresses directly:
 <p><i>Developed with ❤️ by FreetimeMaker</i></p>
 </div>
 
-# SuperSMP Companion App
+# SuperSMP Companion
 
 <div align="center">
-<h1>📸 Pictures of GeoWeather in Action</h1>
+<h1>📸 Pictures of SuperSMP Companion in Action</h1>
 
 <img src="https://github.com/FreetimeMaker/SuperSMP-Companion-App/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" alt="1. Picture"  width="30%">
 <img src="https://github.com/FreetimeMaker/SuperSMP-Companion-App/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" alt="2. Picture"  width="30%">

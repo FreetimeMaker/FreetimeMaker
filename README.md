@@ -78,19 +78,12 @@ I work on open-source software across multiple platforms, with a focus on:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FreetimeMaker&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FreetimeMaker&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  <img alt="Freetime Maker GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FreetimeMaker&show_icons=true&hide_border=true&rank_icon=github" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FreetimeMaker&theme=github_dark" alt="Freetime Maker GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FreetimeMaker&theme=github_dark" alt="Top languages by repository" />
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FreetimeMaker&layout=compact&hide_border=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FreetimeMaker&layout=compact&hide_border=true&theme=default" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreetimeMaker&layout=compact&hide_border=true" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreetimeMaker&theme=github_dark" alt="Freetime Maker profile details" />
 
 </div>
 

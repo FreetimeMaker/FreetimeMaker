@@ -19,7 +19,7 @@ I work on open-source software across multiple platforms, with a focus on:
 - 📱 Android apps with Kotlin, Jetpack Compose and Material 3
 - 🌐 Web apps, APIs and dashboards with JavaScript / Node.js
 - 🖥️ Desktop and Linux apps
-- 📦 App distribution through F-Droid, Flatpak and custom repositories
+- 📦 App distribution through F-Droid and custom repositories
 - 🧩 Developer tools, SDKs and automation
 - 🎮 Minecraft-related apps, launchers and integrations
 
@@ -55,7 +55,6 @@ I work on open-source software across multiple platforms, with a focus on:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)

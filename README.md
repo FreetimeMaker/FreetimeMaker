@@ -21,7 +21,7 @@ I work on open-source software across multiple platforms, with a focus on:
 - 🖥️ Desktop and Linux apps
 - 📦 App distribution through F-Droid and custom repositories
 - 🧩 Developer tools, SDKs and automation
-- 🎮 Minecraft-related apps, launchers and integrations
+- 🎮 Minecraft-related apps and integrations
 
 ---
 
@@ -34,7 +34,6 @@ I work on open-source software across multiple platforms, with a focus on:
 | [🔌 All API](https://github.com/FreetimeMaker/All-API-Node) | Central Node.js API used across several Freetime Maker projects. |
 | [📰 Freetime News](https://github.com/FreetimeMaker/Freetime-News) | Native Android client for the Freetime Maker blog and news platform. |
 | [🎮 SuperSMP Companion](https://github.com/FreetimeMaker/SuperSMP-Companion-App) | Android companion app for the SuperSMP Minecraft server. |
-| [🚀 Lumex Client](https://github.com/FreetimeMaker/Lumex-Client) | Cross-platform Minecraft launcher/client project. |
 | [📚 Freetime Docs](https://github.com/FreetimeMaker/Freetime-Docs) | Documentation hub for actively maintained Freetime Maker projects. |
 | [📝 MD-Blog](https://github.com/FreetimeMaker/MD-Blog) | Markdown-powered blog platform used by Freetime Maker. |
 

@@ -8,6 +8,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-FreetimeMaker-181717?style=for-the-badge&logo=github)](https://github.com/FreetimeMaker)
 [![Docs](https://img.shields.io/badge/Docs-Freetime%20Docs-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/FreetimeMaker/Freetime-Docs)
 
+[![Luma Store total downloads](https://ndlaevedujqxhygbyxfh.supabase.co/functions/v1/download-badge?developer_id=b9083c95-dbd3-428f-905b-9c2d863ea2fd)](https://luma.free-time.me/discover/developers/b9083c95-dbd3-428f-905b-9c2d863ea2fd)
+
 </div>
 
 ---

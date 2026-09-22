@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-free--time.me-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://free-time.me)
 [![GitHub](https://img.shields.io/badge/GitHub-FreetimeMaker-181717?style=for-the-badge&logo=github)](https://github.com/FreetimeMaker)
 [![Docs](https://img.shields.io/badge/Docs-Freetime%20Docs-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/FreetimeMaker/Freetime-Docs)
-[![Luma Store total Developer downloads](https://ndlaevedujqxhygbyxfh.supabase.co/functions/v1/download-badge?developer_id=Freetime%20Maker&badge_v=2)](https://luma.free-time.me/discover/developers/Freetime%20Maker)
+[![Luma Store total downloads](https://ndlaevedujqxhygbyxfh.supabase.co/functions/v1/download-badge?developer_name=Freetime%20Maker&badge_v=2)](https://luma.free-time.me/discover/developers/Freetime%20Maker)
 
 </div>
 

@@ -69,7 +69,7 @@ I work on open-source software across multiple platforms, with a focus on:
 - **API:** [api.free-time.me](https://api.free-time.me)
 - **Blog:** [blog.free-time.me](https://blog.free-time.me)
 - **F-Droid repository:** [fdroid.free-time.me/repo](https://fdroid.free-time.me/repo)
-- **Documentation:** [Freetime Docs](https://github.com/FreetimeMaker/Freetime-Docs)
+- **Documentation:** [Freetime Docs](https://docs.free-time.me)
 
 ---
 
